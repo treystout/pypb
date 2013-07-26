@@ -1,4 +1,4 @@
-"""console-pb
+"""pypb
 
 Copyright (C) 2009 by Trey Stout
 

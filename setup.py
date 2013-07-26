@@ -9,8 +9,6 @@ setup(
     scripts=[],
     url='http://pypi.python.org/pypi/pypb/',
     license='LICENSE.txt',
-    description='Useful towel-related stuff.',
-    long_description=open('README.txt').read(),
-    install_requires=[
-    ],
+    description='console-based progress bar',
+    long_description=open('README.txt').read()
 )
