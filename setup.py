@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='pypb',
-    version='1.0.0',
+    version='1.0.1',
     author='Trey Stout',
     author_email='treystout@gmail.com',
     packages=['pypb', 'pypb.test'],
